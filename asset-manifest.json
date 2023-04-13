@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/samuele-png/algorithmalliance-frontend/static/css/main.de7b3612.css",
-    "main.js": "/samuele-png/algorithmalliance-frontend/static/js/main.b5a7fc63.js",
-    "static/js/787.881ee392.chunk.js": "/samuele-png/algorithmalliance-frontend/static/js/787.881ee392.chunk.js",
-    "static/media/logo.png": "/samuele-png/algorithmalliance-frontend/static/media/logo.d28bc1c73b05ed128955.png",
-    "index.html": "/samuele-png/algorithmalliance-frontend/index.html",
-    "main.de7b3612.css.map": "/samuele-png/algorithmalliance-frontend/static/css/main.de7b3612.css.map",
-    "main.b5a7fc63.js.map": "/samuele-png/algorithmalliance-frontend/static/js/main.b5a7fc63.js.map",
-    "787.881ee392.chunk.js.map": "/samuele-png/algorithmalliance-frontend/static/js/787.881ee392.chunk.js.map"
+    "main.css": "/algorithmalliance-frontend/static/css/main.de7b3612.css",
+    "main.js": "/algorithmalliance-frontend/static/js/main.413c42be.js",
+    "static/js/787.881ee392.chunk.js": "/algorithmalliance-frontend/static/js/787.881ee392.chunk.js",
+    "static/media/logo.png": "/algorithmalliance-frontend/static/media/logo.d28bc1c73b05ed128955.png",
+    "index.html": "/algorithmalliance-frontend/index.html",
+    "main.de7b3612.css.map": "/algorithmalliance-frontend/static/css/main.de7b3612.css.map",
+    "main.413c42be.js.map": "/algorithmalliance-frontend/static/js/main.413c42be.js.map",
+    "787.881ee392.chunk.js.map": "/algorithmalliance-frontend/static/js/787.881ee392.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de7b3612.css",
-    "static/js/main.b5a7fc63.js"
+    "static/js/main.413c42be.js"
   ]
 }
